@@ -1,0 +1,71 @@
+.container {
+  width: 700px;
+  /* padding: 1px; */
+  }
+  
+.login-content {
+    align-items: center;
+    text-align: center; 
+    background-color: rgb(148, 122, 49);
+    padding: 20px;
+  }
+  
+  .login-content img {
+    height: 100px;
+  }
+  
+  .title {
+    margin: 20px;
+    color: rgb(36, 33, 33);
+    text-transform: uppercase;
+    font-size: 1.8rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .subtitle{
+        text-align: center;
+        font-family: 'Segoe UI';
+        font-size:23px;
+        color: rgb(44, 44, 44);
+        position: relative;
+        display: grid;
+        margin: 40px;
+   }
+    /* align-items: center;*/  
+    /* font-size: 10px;  */
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    /* color: #333; */
+    /* text-align: center; */
+    /* margin: 60px;
+    padding: 13px;  */
+
+  
+  .Viewerbtn {
+    width: 34%;
+    height: 50px;
+    border-radius: 25px;
+    outline: none;
+    border: none;
+    background-color: rgb(48, 100, 121);
+    font-size: 1.2rem;
+    color: #fff;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: 0.5s;
+    margin-bottom: 10px;
+  }
+  
+  .Adminbtn {
+    width: 34%;
+    height: 50px;
+    border-radius: 25px;
+    outline: none;
+    border: none;
+    background-color: rgb(48, 100, 121);
+    font-size: 1.2rem;
+    color: #fff;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: 0.5s;
+  }
+  
