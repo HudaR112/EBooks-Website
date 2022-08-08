@@ -24,10 +24,18 @@
     <td>Switch Accounts page </td>  
   </tr>
   <tr>
-    <td valign="top"><img src = "=https://user-images.githubusercontent.com/104123014/183331758-455c4862-37af-4a4d-b43e-d18c6126ab9e.gif" width=400 /></td>
+    <td valign="top"><img src = "https://user-images.githubusercontent.com/104123014/183331758-455c4862-37af-4a4d-b43e-d18c6126ab9e.gif" width=400 /></td>
     <td valign="top"><img src = "https://user-images.githubusercontent.com/104123014/183331782-aec67687-fd19-44e9-aa42-77ceae9f1f5b.gif" width=400 /></td>
     <td valign="top"><img src = "https://user-images.githubusercontent.com/104123014/183331788-919aee7a-acc2-4908-ac3f-00c4d0de97af.gif" width=400 /></td>
     <td valign="top"><img src = "https://user-images.githubusercontent.com/104123014/183331797-c5026403-1ad9-4c61-9ab8-b210ca57f134.gif" width=400 /></td>
     <td valign="top"><img src = "https://user-images.githubusercontent.com/104123014/183331834-dd60a724-441a-425d-b251-0ebf530584d6.gif" width=400 /></td>
   </tr>
  </table>
+ 
+ #Technologies Used:
+ -ReactJS
+ -CSS
+ -Bootstrap
+ -MaterialUI
+ -Express
+ -Cors
