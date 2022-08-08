@@ -32,7 +32,7 @@
   </tr>
  </table>
  
- #Technologies Used:
+ # Technologies Used:
  -ReactJS
  -CSS
  -Bootstrap
