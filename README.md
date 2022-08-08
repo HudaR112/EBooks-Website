@@ -13,8 +13,6 @@
     <td valign="top"><img src = "https://user-images.githubusercontent.com/104123014/183331663-240f18a6-854d-499a-9bfb-2c461c99b7ec.gif" width=400 /></td>
     <td valign="top"><img src = "https://user-images.githubusercontent.com/104123014/183331821-b2f3f9f4-19ab-4c35-b50a-56b5d168d0bc.gif" width=400 /></td>  
     <td valign="top"><img src = "https://user-images.githubusercontent.com/104123014/183331817-afb11780-1034-4e3e-9e0c-236ef393767c.gif" width=400 /></td>
-    
-    
   </tr>
   <tr>
      <td>CRUD OPERATIONS(Create/Add)</td>
