@@ -33,9 +33,27 @@
  </table>
  
  # Technologies Used:
- -ReactJS
- -CSS
- -Bootstrap
- -MaterialUI
- -Express
- -Cors
+ FrontEnd:
+ - ReactJS
+ - CSS
+ - Bootstrap
+ - MaterialUI
+ 
+BackEnd:
+- Express
+- MySql
+- Node JS
+
+
+# Description
+-It is a E-Book Website that has been made using ReactJS, NodeJS, Express. The CRUD rest APIs were created using the latter two and were then integrated into our Front-End.
+- It has two modes: 1. Viewer 2. Admin. 
+- The admin has the authority to add,update,delete and view the user's book details. 
+- Whereas the viewer will only be able to see the website in the view mode. 
+- Furthermore, there is E-Book Store where they are a list of books along wiht their authors and publications present there and a contact us page where user can put up their queries. 
+- The changes made on the website are verified in the database aswell. 
+- The database file has not been provided here. So, you need to create a scheme first and then run server folder using "npm run server" command on the terminal.
+
+# Quick Setup
+1. cd Client-> npm start
+2. cd Server -> npm run server
