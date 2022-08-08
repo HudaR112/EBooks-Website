@@ -4,11 +4,13 @@
      <td>E-Book Website Overview</td>
      <td>Access Control</td>
      <td>Admin Credentials</td>
+    <td>E-Book Store </td>
   </tr>
   <tr>
     <td valign="top"><img src = "https://user-images.githubusercontent.com/104123014/183332925-cbce4793-c07b-47a8-9767-646160883828.gif" width=400 /></td>
     <td valign="top"><img src = "https://user-images.githubusercontent.com/104123014/183331656-72b19ccd-0e6f-4caf-8168-00062708444b.gif" width=400 /></td>
     <td valign="top"><img src = "https://user-images.githubusercontent.com/104123014/183331663-240f18a6-854d-499a-9bfb-2c461c99b7ec.gif" width=400 /></td>
+    <td valign="top"><img src = "https://user-images.githubusercontent.com/104123014/183331821-b2f3f9f4-19ab-4c35-b50a-56b5d168d0bc.gif" width=400 /></td>
     
   </tr>
   <tr>
